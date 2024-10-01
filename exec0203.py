@@ -1,0 +1,5 @@
+num1 = input('Escolha um número')
+num2 = input('Escolha outro número')
+a = int(num1)
+b = int(num2)
+print(a+b)

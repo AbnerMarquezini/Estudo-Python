@@ -1,0 +1,5 @@
+pr = int(input('Insira sua nota do 1° Bimestre'))
+se = int(input('Insira sua nota do 2° Bimestre'))
+te = int(input('Insira sua nota do 3° Bimestre'))
+qu = int(input('Insira sua nota do 4° Bimestre'))
+print((pr+se+te+qu)/4)
